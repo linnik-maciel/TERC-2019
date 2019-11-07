@@ -2,6 +2,7 @@
 
 Equipes e seus integrantes representadas por um líder:
   - Equipe 1 - líder Arlinton
+    - Raspberry utilizado: raspberrySITH
   - Equipe 2 - líder Simite
   - Equipe 3 - líder ...
 
