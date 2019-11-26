@@ -1,0 +1,4 @@
+# !/bin/bash
+
+cd ~/pyRadioHeadRF95-master/examples2 
+./waterQuality_gateway.py >> pegapls.txt
